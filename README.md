@@ -1,6 +1,5 @@
 <h1>PROYECTO ACADÉMICO</h1>
-<img src="./assets/banner.png" width="100%"></img>
-<h3>SUBTITLE</h3>
+
 <p align="center">
   <a href="https://github.com/dnbsammie/u1a1-academic/issues">
     <img src="https://img.shields.io/github/issues/dnbsammie/u1a1-academic" alt="Issues">
