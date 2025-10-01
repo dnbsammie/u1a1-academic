@@ -16,7 +16,7 @@
 
 <p>
   <strong>Autor #1</strong> Dayanna Malagón<br>
-  <strong>GitHub:</strong> <a href="https://github.com/">https://github.com/</a>
+  <strong>GitHub:</strong> <a href="https://github.com/dayanna435">https://github.com/dayanna435</a>
 </p>
 
 <p>
