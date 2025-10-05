@@ -21,7 +21,7 @@
 
 <p>
   <strong>Autor #2</strong> David Goméz<br>
-  <strong>GitHub:</strong> <a href="https://github.com/">https://github.com/</a>
+  <strong>GitHub:</strong> <a href="https://github.com/Dagora30">https://github.com/Dagora30</a>
 </p>
 
 <p>
