@@ -28,8 +28,8 @@ Este documento describe los principios de diseño y experiencia de usuario aplic
 - **Fuente principal:** Roboto
 - **Jerarquía:**  
   - Títulos: `h1`, `h2` con peso 500–700  
-  - Texto base: `p` con peso 400  
-  - Notas y etiquetas: `small` con peso 300
+  - Texto base: `p` con peso 300 - 400  
+  - Notas y etiquetas: `small` con peso 100 - 200
 
 ### 🧩 Componentes clave
 
